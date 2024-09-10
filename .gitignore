@@ -1,0 +1,15 @@
+# Dependências
+node_modules/
+
+# Arquivos sensíveis
+.env
+
+# Hardhat
+artifacts/
+cache/
+coverage/
+
+# Logs
+*.log
+*.tmp
+tmp/
