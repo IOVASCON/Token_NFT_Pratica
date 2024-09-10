@@ -53,11 +53,11 @@ npx hardhat run scripts/deploy.js --network ropsten
 
 ## Compilação dos Contratos
 
-![Compilação com Hardhat](./path/to/Hardhat_Compile.PNG)
+![Compilação com Hardhat](./Hardhat_Compile.PNG)
 
 ## Deploy dos Contratos
 
-![Deploy de Contratos](./path/to/Deploy.PNG)
+![Deploy de Contratos](./Deploy.PNG)
 
 ## Dificuldades Encontradas
 
